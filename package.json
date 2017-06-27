@@ -1,0 +1,7 @@
+{
+  "name": "toolbelt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stefan Rimaila <stefan@rimaila.fi>",
+  "license": "MIT"
+}
